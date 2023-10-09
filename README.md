@@ -23,6 +23,6 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional a conti
 
 #### App/Dashboard Registro de analisis de laboratorio
 
-#### App/Dashboard Registro de analisis de laboratorio
+#### App/Dashboard Analisis predictivo de equipos de mantenimiento
 
 
