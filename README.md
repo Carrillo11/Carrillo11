@@ -14,7 +14,7 @@ Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y D
 * Power Apps
 * Power BI
 
-### Proyectos eealizados
+### Proyectos realizados
 He desarrollado distintos proyectos a lo largo de mi carrera profesional a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo:
 
 #### App/Dashboard Auditorias de 5S
