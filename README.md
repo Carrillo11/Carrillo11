@@ -1,6 +1,6 @@
 # Hola, soy René 👨🏼‍💻 📈
 
-## Mi Experiencia
+## Mi experiencia
 
 Soy un desarrollador Low-Code/Analista de Datos, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
 
@@ -14,7 +14,15 @@ Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y D
 * Power Apps
 * Power BI
 
-### Proyectos Realizados
-He desarrollado distintos proyectos a lo largo de mi carrera profesional a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo.
+### Proyectos eealizados
+He desarrollado distintos proyectos a lo largo de mi carrera profesional a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo:
+
+#### App/Dashboard Auditorias de 5S
+
+#### App/Dashboard Microbiologia
+
+#### App/Dashboard Registro de analisis de laboratorio
+
+#### App/Dashboard Registro de analisis de laboratorio
 
 
