@@ -2,7 +2,7 @@
 
 ## Mi experiencia
 
-Soy un desarrollador Low-Code/Analista de Datos, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
+Soy un desarrollador Low-Code/Data Analyst, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
 
 He participado en la creación de soluciones de analisis de datos para toda MAZ (Middle Americas Zone) una de las zonas con las que cuenta ABI y esta conformada por Mexico, Guatemala, Honduras, El Salvador, Panama, entre otros.
 
@@ -15,13 +15,13 @@ Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y D
 * Power BI
 
 ### Proyectos realizados
-He desarrollado distintos proyectos a lo largo de mi carrera profesional a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo:
+He desarrollado distintos proyectos a lo largo de mi carrera profesional, a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo y han logrado tener un gran impacto:
 
 #### App/Dashboard Auditorias de 5S
 
 #### App/Dashboard Microbiologia
 
-#### App/Dashboard Registro de analisis de laboratorio
+#### App/Dashboard  Rutinas de verificación
 
 #### App/Dashboard Analisis predictivo de equipos de mantenimiento
 
