@@ -4,7 +4,7 @@
 
 ## Mi experiencia
 
-Soy un desarrollador Low-Code/Data Analyst, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
+Soy Low-Code Developer & Data Analyst, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
 
 He participado en la creación de soluciones de analisis de datos para toda MAZ (Middle Americas Zone) una de las zonas con las que cuenta ABI y esta conformada por Mexico, Guatemala, Honduras, El Salvador, Panama, entre otros.
 
