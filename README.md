@@ -1,5 +1,7 @@
 # Hola, soy René 👨🏼‍💻 📈
 
+<img src="https://i.ibb.co/hLHnpn0/img.png" alt="Low-Code Developer & Data Analyst">
+
 ## Mi experiencia
 
 Soy un desarrollador Low-Code/Data Analyst, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
