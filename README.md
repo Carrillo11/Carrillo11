@@ -20,6 +20,8 @@ Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y D
 He desarrollado distintos proyectos a lo largo de mi carrera profesional, a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo y han logrado tener un gran impacto:
 
 #### App/Dashboard Auditorias de 5S
+<img src="https://i.ibb.co/rcnXdzV/5S1.png" alt="5S1">
+<img src="https://i.ibb.co/MsycJZ2/5S2.png" alt="5S2">
 
 #### App/Dashboard Microbiologia
 
