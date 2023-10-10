@@ -1,6 +1,6 @@
 # Hola, soy René 👨🏼‍💻 📈
 
-<img src="https://i.ibb.co/hLHnpn0/img.png" alt="Low-Code Developer & Data Analyst" width="750" height="250">
+ <div align=”center” <img src="https://i.ibb.co/hLHnpn0/img.png" alt="Low-Code Developer & Data Analyst" width="750" height="250">>
 
 ## Mi experiencia
 
