@@ -35,8 +35,43 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
 
 #### App/Dashboard Microbiologia
 
+##### APP
+
+<p align="center" width="100%">
+ <img src="https://i.ibb.co/kKR7K4w/2.png" alt="2" border="0">
+</p>
+
+##### Dashboard
+
+<p align="center" width="100%">
+ <img src="https://i.ibb.co/4gX8kzW/1.png" alt="1" border="0">
+</p>
+
 #### App/Dashboard  Rutinas de verificación
+
+##### APP
+
+<p align="center" width="100%">
+ <img src="https://i.ibb.co/5WjWLFy/2.png" alt="2" border="0">
+</p>
+
+##### Dashboard
+
+<p align="center" width="100%">
+ <img src="https://i.ibb.co/RhyQ63C/1.png" alt="1" border="0">
+</p>
 
 #### App/Dashboard Analisis predictivo de equipos de mantenimiento
 
+##### APP
+
+<p align="center" width="100%">
+ <img src="https://i.ibb.co/Bfg8zr8/4.png" alt="2" border="0">
+</p>
+
+##### Dashboard
+
+<p align="center" width="100%">
+ <img src="https://i.ibb.co/mhLQZHW/5.png" alt="1" border="0">
+</p>
 
