@@ -22,8 +22,13 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
 #### App/Dashboard Auditorias de 5S
 
 ##### APP
+<style>
+  div {
+    text-align: center;
+  }
+</style>
 
-<div text-align: center>
+<div>
  <img src="https://i.ibb.co/5WjWLFy/2.png" alt="2" border="0">
 </div>
 
