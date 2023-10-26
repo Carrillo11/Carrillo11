@@ -1,6 +1,6 @@
 # Hola, soy René 👨🏼‍💻 📈
 
-<div align=”center”><img src="https://i.ibb.co/hLHnpn0/img.png" alt="Low-Code Developer & Data Analyst" width="750" height="250"></div>
+<p align="center" width="100%"><img src="https://i.ibb.co/hLHnpn0/img.png" alt="Low-Code Developer & Data Analyst" width="750" height="250"></p>
 
 ## Mi experiencia
 
@@ -23,15 +23,15 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
 
 ##### APP
 
-<div align=”center”>
+<p align="center" width="100%">
  <img src="https://i.ibb.co/5WjWLFy/2.png" alt="2" border="0">
-</div>
+</p>
 
 ##### Dashboard
 
-<div align=”center”>
+<p align="center" width="100%">
  <img src="https://i.ibb.co/RhyQ63C/1.png" alt="1" border="0">
-</div>
+</p>
 
 #### App/Dashboard Microbiologia
 
