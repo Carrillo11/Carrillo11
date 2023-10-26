@@ -21,13 +21,8 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
 
 #### App/Dashboard Auditorias de 5S
 
-  <img src="https://i.ibb.co/6vFyYqb/5S1.png" alt="5S1">
-  <img src="https://i.ibb.co/7vwQW5w/5S2.png" alt="5S2">
-
-  <img src="https://i.ibb.co/LknKszd/1.png" alt="5S1">
-  <img src="https://i.ibb.co/jfwzB2L/2.png" alt="5S1">
-  <img src="https://i.ibb.co/56KBryK/3.png" alt="5S1">
-  <img src="https://i.ibb.co/Lh9w7MW/4.png" alt="5S1">
+<img src="https://i.ibb.co/RhyQ63C/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/5WjWLFy/2.png" alt="2" border="0">
 
 #### App/Dashboard Microbiologia
 
