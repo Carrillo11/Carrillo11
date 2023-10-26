@@ -6,10 +6,10 @@
 
 Soy Low-Code Developer & Data Analyst, que genera soluciones para la toma de decisiones en la industria alimenticia, especificamente para cerverceria 🍻.
 
-He participado en la creación de soluciones de analisis de datos para toda MAZ (Middle Americas Zone) una de las zonas con las que cuenta ABI y esta conformada por Mexico, Guatemala, Honduras, El Salvador, Panama, entre otros.
+He participado en la creación de soluciones de análisis de datos para toda MAZ (Middle Americas Zone) una de las zonas con las que cuenta ABInBev y esta conformada por Mexico, Guatemala, Honduras, El Salvador, Panamá, entre otros.
 
 ### Herramientas utilizadas
-Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y Dashboards para la toma de decisiones para los distintos departamentos de la organización para la que trabajo, entre las herramientas que utilizo estan:
+Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y Dashboards para la toma de decisiones, para los distintos departamentos de la organización para la que trabajo, entre las herramientas que utilizo estan:
 * SharePoint
 * SQL
 * Power Automate
@@ -17,19 +17,21 @@ Actualmente utilizo herramientas para el desarrollo de aplicaciones Low-Code y D
 * Power BI
 
 ### Proyectos realizados
-He desarrollado distintos proyectos a lo largo de mi carrera profesional, a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo y han logrado tener un gran impacto:
+He desarrollado distintos proyectos a lo largo de mi carrera profesional, a continuación muestro los que han presentado un meyor reto a lo largo de su desarrollo y han sido casos de éxito teniendo un gran alcance:
 
 #### App/Dashboard Auditorias de 5S
 
 ##### APP
 
-<div text-align: center>
+<div text-align: center;
+        display: block;>
  <img src="https://i.ibb.co/5WjWLFy/2.png" alt="2" border="0">
 </div>
 
 ##### Dashboard
 
-<div text-align: center>
+<div text-align: center;
+        display: block;>
  <img src="https://i.ibb.co/RhyQ63C/1.png" alt="1" border="0">
 </div>
 
