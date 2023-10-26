@@ -33,7 +33,6 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
  <img src="https://i.ibb.co/RhyQ63C/1.png" alt="1" border="0">
 </div>
 
-
 #### App/Dashboard Microbiologia
 
 #### App/Dashboard  Rutinas de verificación
