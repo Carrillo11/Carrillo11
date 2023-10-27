@@ -52,13 +52,13 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
 ##### APP
 
 <p align="center" width="100%">
- <img src="https://i.ibb.co/5WjWLFy/2.png" alt="2" border="0">
+ <img src="https://i.ibb.co/MktzC1G/6.png" alt="2" border="0">
 </p>
 
 ##### Dashboard
 
 <p align="center" width="100%">
- <img src="https://i.ibb.co/MktzC1G/6.png" alt="1" border="0">
+ <img src="https://i.ibb.co/9cphV9M/5.png" alt="1" border="0">
 </p>
 
 #### App/Dashboard Analisis predictivo de equipos de mantenimiento
