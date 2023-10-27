@@ -58,7 +58,7 @@ He desarrollado distintos proyectos a lo largo de mi carrera profesional, a cont
 ##### Dashboard
 
 <p align="center" width="100%">
- <img src="https://i.ibb.co/RhyQ63C/1.png" alt="1" border="0">
+ <img src="https://i.ibb.co/MktzC1G/6.png" alt="1" border="0">
 </p>
 
 #### App/Dashboard Analisis predictivo de equipos de mantenimiento
